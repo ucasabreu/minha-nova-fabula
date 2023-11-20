@@ -1,7 +1,8 @@
 <fable>
 	<page background="noite_dark.png">
-        <agent x="175" y="320" text="Bem Vindo a pagina 1" color="green">
-        <agent x="400" y="0" img="ArrowSign.png" width="42"
+        <agent x="175" y="320" text="Bem Vindo a pagina 1" color="green"/>
+        <agent x="400" y="0" img="ArrowSign.png" width="42" height="42"/>
+        
   
     
   </page>

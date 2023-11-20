@@ -1,6 +1,6 @@
 <fable>
 	<page background="noite_dark.png">
-        <agent x="175" y="250" text="Bem Vindo a pagina 1" >
+        <agent x="175" y="300" text="Bem Vindo a pagina 1" color="green">
   
     
   </page>

@@ -11,5 +11,6 @@
       text="Só que as notícias na carta não eram muito boas. O seu amigo tinha contraído uma doença mistériosa e precisava de ajuda para pegar a cura." x="20" y="270" width="300" />
 
       <agent img="block.png" x="250" y="-25" width="100" height="100" />
-      <agent img="13.png" x="430" y=""
+      <agent img="13.png" x="430" y="150" width="75" height="50"/>
+      <agent img="Sign_2.png" x="430" y/>
 </fable>

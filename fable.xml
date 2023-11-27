@@ -64,7 +64,9 @@
          img="switchLock.png" x="340" y="100" width="20" height="75" on-touch="unlocked">
          <unlocked img="switchUnlocked.png"/>
      </agent>
-    
+    <agent
+        img="locked.png" >
+    </agent>
 </page>
       
 </fable>

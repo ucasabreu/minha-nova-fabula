@@ -36,7 +36,8 @@
     <agent img="2.png" x="200" y="0" width="100" height="100"/>
     <agent img="2.png" x="300" y="0" width="100" height="100"/>
     <agent img="Idle (1).png" x="100" y="90" width="80" height="100"/>
-    <agent img="Sign_2.png" x="385" y="150" width="50" height="50" on-touch="_NEXT_PAGE"/> 
+   
+              <agent img="Sign_2.png" x="385" y="150" width="50" height="50" on-touch="_NEXT_PAGE"/> 
     <agent img="Tree_2.png" x="250" y="100" width="300" height="300" on-touch="cortada">
       <cortada img="Tree_1.png" x="320" width="150" height="50" />
     </agent>

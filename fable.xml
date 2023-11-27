@@ -46,7 +46,8 @@
 <page background="bg.png">
      <agent text="Precisamos abrir a porta" font-size="18" x="20" y="450" width="400"/>
      <agent
-         text>
+         text="O que acontece se tocar no painel de controle?"
+         x="20" y="400" width="300" on-trigger="unlocked">
      </agent>    
 </page>
       

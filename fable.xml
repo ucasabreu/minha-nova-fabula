@@ -29,11 +29,11 @@
       x="20" y="400" width="300" on-trigger="cortada">
       <cortada y="410" text="Toque na placa para prosseguir na jornada"/>
     </agente>
+    <agent />
     <agent/>
     <agent/>
     <agent/>
     <agent/>
-    <a
 
 
         

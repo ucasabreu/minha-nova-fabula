@@ -22,7 +22,7 @@
     <agent 
         text="Oh, não! um desafio pela frente..." font-size="18" x="20" y="450" 
         width="400" on-trigger="cortada"/>
-        <cortada text="O caminho esta l">
+        <cortada text="O caminho esta livre"/>
     </agent>   
 </page>
     

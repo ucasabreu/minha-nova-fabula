@@ -70,7 +70,8 @@
         <open img="open.png" on-touch="_NEXT_PAGE"/>
     </agent>
 </page>
-    <page b>
+    <page background="bg.png">
+        
     </page>
       
 </fable>

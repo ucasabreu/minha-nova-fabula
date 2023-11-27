@@ -83,6 +83,7 @@
 
         <agent
             img="locked.png" x="415" y="100" width="75" height="110" on-touch="open">
+            <open img="open.png" on-touch="_NEXT_PAGE" />
     </page>
       
 </fable>

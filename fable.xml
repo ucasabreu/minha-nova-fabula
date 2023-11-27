@@ -59,7 +59,7 @@
      <agent img="Bush.png" x="20" y="100" width="100" height="60"/>
      <agent img="block.png" x="310" y="100" width="200" height="200"/>
 
-    
+     <agent img="Idle (1).png" x="100" y="90" width=/>
 </page>
       
 </fable>

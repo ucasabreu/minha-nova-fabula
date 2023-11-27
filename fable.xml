@@ -61,9 +61,10 @@
 
      <agent img="Idle (1).png" x="100" y="90" width="80" height="100"/>
      <agent
-         img="unlocked.png" x="340" y="100" width="20" height="75" on-touch="unlocked">
+         img="switchLock.png" x="340" y="100" width="20" height="75" on-touch="unlocked">
          <unlocked img="switchUnlocked.png"/>
      </agent>
+    
 </page>
       
 </fable>

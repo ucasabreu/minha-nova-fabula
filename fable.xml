@@ -65,7 +65,7 @@
          <unlocked img="switchUnlocked.png"/>
      </agent>
     <agent
-        img="locked.png" >
+        img="locked.png" x="375" y="100" width="75" height="110" on-trigger="unlocked">
     </agent>
 </page>
       

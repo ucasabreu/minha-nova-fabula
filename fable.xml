@@ -29,8 +29,8 @@
       x="20" y="400" width="300" on-trigger="cortada">
       <cortada y="410" text="Toque na placa para prosseguir na jornada"/>
     </agente>
-    <agent img="1.png" x="0" y="0" width="100" />
-    <agent/>
+    <agent img="1.png" x="0" y="0" width="100" height="100" />
+    <agent img="2.png" x="100" y="0" width="100" height="100"/>
     <agent/>
     <agent/>
     <agent/>

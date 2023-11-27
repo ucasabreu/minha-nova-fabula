@@ -75,8 +75,8 @@
             x="20" y="410" font-size="18" color="white" width="300" on-trigger="outscreen">
             <outscreen text="Acesso liberado! agora vamos salvar o meu amigo!!"/>
         </agent>
-        <agent img="floor.png" />
-        <agent/>
+        <agent img="floor.png" x="0" y="0" width="100" height="100"/>
+        <agent img="floor2.png" x="0" y="0" width="100" height="100"/>
         <agent/>
         <agent/>
         <agent/>

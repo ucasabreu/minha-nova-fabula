@@ -27,6 +27,7 @@
     <agent 
       text="Parece que há algo escondido... será se podemos cortar a àrvore?" 
       x="20" y="400" width="300" on-trigger="cortada">
+      <cortada y="410" text="Toque na placa"/>   
     </agente>
 </page>
     

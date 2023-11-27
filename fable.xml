@@ -12,5 +12,7 @@
 
       <agent img="block.png" x="250" y="-25" width="100" height="100" />
       <agent img="13.png" x="430" y="150" width="75" height="50"/>
-      <agent img="Sign_2.png" x="430" y/>
+      <agent img="Sign_2.png" x="430" y="200" width="50" height="50"/>
+      <agent im/>
+      
 </fable>

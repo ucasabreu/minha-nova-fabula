@@ -90,7 +90,8 @@
         </agent>
         <agent
             img="Barrel.png" x="20" y="100" width="50" height="60" draggable="true" 
-            on-drop="explode" on-zone="out">
+            on-drop="explode" on-zone="outscreen" on-trigger="outscreen">
+            <outscreen y="-200"/>
     </page>
       
 </fable>

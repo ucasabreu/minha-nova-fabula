@@ -18,8 +18,9 @@
       <agent img="Idle (1).png" x="260" y="65" width="80" height="100"/>
 
 </page>
-<page>
-    
+<page background="bg.png">
+    <agent 
+        text="Oh, não! um desafio pela frente..." />    
 </page>
     
       

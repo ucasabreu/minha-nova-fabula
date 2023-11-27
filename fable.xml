@@ -1,4 +1,5 @@
 <fable>
-  <page background=>
-      <agent>
+  <page background="bg.png">
+      <agent 
+          />
 </fable>

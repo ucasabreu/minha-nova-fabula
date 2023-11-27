@@ -44,7 +44,7 @@
     </agent>
 </page>
 <page background="bg.png">
-     <agent img="" />
+     <agent text="Precisamos abrir a porta" font-size="18" x="20" y="" />
     
 </page>
       

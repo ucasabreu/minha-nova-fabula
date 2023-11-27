@@ -9,5 +9,6 @@
     
         <agent 
       text="Só que as notícias na carta não eram muito boas. O seu amigo tinha contraído uma doença mistériosa e precisava de ajuda para pegar a cura." x="20" y="270" width="300" />
-      
+
+      <agent img="block.png" x="250"  >
 </fable>

@@ -18,18 +18,18 @@
       <agent img="Idle (1).png" x="260" y="65" width="80" height="100"/>
 
 </page>
-<page background="bg.png">
+    <page background="bg.png">
     
     <agent 
         text="Oh, não! um desafio pela frente..." font-size="18" x="20" y="450" 
         width="400" on-trigger="cortada"/>
-        <cortada text="O caminho esta livre"/>
+        <cortada text="O caminho esta livre">
     </agent> 
     
     <agent 
       text="Parece que há algo escondido... será se podemos cortar a àrvore?" 
       x="20" y="400" width="300" on-trigger="cortada">
-          <cortada y="410" text="Toque na placa para prosseguir na jornada"/>
+          <cortada y="410" text="Toque na placa para prosseguir na jornada">
     </agente>
     <agent img="1.png" x="0" y="0" width="100" height="100"/>
     <agent img="2.png" x="100" y="0" width="100" height="100"/>
@@ -42,6 +42,6 @@
     </agent>
 
 </page>
-<page background="bg.png"> </page>
+    
       
 </fable>

@@ -93,7 +93,7 @@
             on-drop="explode" on-zone="outscreen" on-trigger="outscreen">
             <outscreen y="-200"/>
         </agent>
-        <agent img="Idle (1).png" x="100" y="90" width="80" height="100" />
+        <agent img="Idle (1).png" x="100" y="90" width="80" height="100"/>
     </page>
       
 </fable>

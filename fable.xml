@@ -44,8 +44,10 @@
     </agent>
 </page>
 <page background="bg.png">
-     <agent text="Precisamos abrir a porta" font-size="18" x="20" y="" />
-    
+     <agent text="Precisamos abrir a porta" font-size="18" x="20" y="450" width="400"/>
+     <agent
+         text>
+     </agent>    
 </page>
       
 </fable>

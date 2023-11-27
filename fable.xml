@@ -20,7 +20,11 @@
 </page>
 <page background="bg.png">
     <agent 
-        text="Oh, não! um desafio pela frente..." />    
+        text="Oh, não! um desafio pela frente..." font-size="18" x="20" y="450" 
+        width="400" on-trigger="cortada"/>
+
+
+    
 </page>
     
       

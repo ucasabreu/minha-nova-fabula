@@ -56,7 +56,8 @@
      <agent img="2.png" x="300" y="0" width="100" height="100"/>
      <agent img="2.png" x="400" y="0" width="100" height="100"/>
 
-     
+     <agent img="Bush.png" x="20" y="100" width="100" height="60"/>
+     <agent img=""
 </page>
       
 </fable>

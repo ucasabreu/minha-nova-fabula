@@ -76,9 +76,9 @@
             <outscreen text="Acesso liberado! agora vamos salvar o meu amigo!!"/>
         </agent>
         <agent img="floor.png" x="0" y="0" width="100" height="100"/>
-        <agent img="floor2.png" x="0" y="0" width="100" height="100"/>
-        <agent/>
-        <agent/>
+        <agent img="floor2.png" x="100" y="0" width="100" height="100"/>
+        <agent img="floor2.png" x="200" y="0" width="100" height="100"/>
+        <agent img="floor2.png" x="300" y="0" />
         <agent/>
     </page>
       

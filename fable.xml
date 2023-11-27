@@ -23,7 +23,11 @@
         text="Oh, não! um desafio pela frente..." font-size="18" x="20" y="450" 
         width="400" on-trigger="cortada"/>
         <cortada text="O caminho esta livre"/>
-    </agent>   
+    </agent> 
+    <agent 
+      text="Parece que há algo escondido... será se podemos cortar a àrvore?" 
+      x="20" y="400" width="300" on-trigger="cortada">
+    </agente>
 </page>
     
       

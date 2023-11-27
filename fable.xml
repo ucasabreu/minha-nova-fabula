@@ -70,7 +70,7 @@
         <open img="open.png" on-touch="_NEXT_PAGE"/>
     </agent>
 </page>
-    <page background="bg.png">
+    <page background="bg.p">
         
     </page>
       

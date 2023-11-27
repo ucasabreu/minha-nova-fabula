@@ -73,7 +73,13 @@
     <page background="bg_lab.png">
         <agent text="Nossa! um monte de espinhos... será que conseguimos explodi-los?"
             x="20" y="410" font-size="18" color="white" width="300" on-trigger="outscreen">
-            <outscreen text="Acesso liberado! agora vamos salvar o meu amigo!!"
+            <outscreen text="Acesso liberado! agora vamos salvar o meu amigo!!"/>
+        </agent>
+        <agent img="floor.png" />
+        <agent/>
+        <agent/>
+        <agent/>
+        <agent/>
     </page>
       
 </fable>

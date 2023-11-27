@@ -89,7 +89,8 @@
             <explode y="-200"/>
         </agent>
         <agent
-            img="Barrel.png" x="20">
+            img="Barrel.png" x="20" y="100" width="50" height="60" draggable="true" 
+            on-drop="explode" on-zone="out">
     </page>
       
 </fable>

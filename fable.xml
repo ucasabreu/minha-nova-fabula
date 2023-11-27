@@ -42,8 +42,8 @@
     <agent img="Tree_2.png" x="250" y="100" width="300" height="300" on-touch="cortada">
       <cortada img="Tree_1.png" x="320" width="150" height="50"/>
     </agent>
-
 </page>
-    
+<page>
+    <pa
       
 </fable>

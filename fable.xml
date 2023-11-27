@@ -1,5 +1,6 @@
 <fable>
   <page background="bg.png">
     <agent text="O pequeno Cavaleiro" font-size="20" x="20" y="460" width="400"/>
-    <agente
+    <agente text="Era uma vez, um pequeno cavaleiro que recebeu uma carta de um amigo."
+        x="20" y="400" width">
 </fable>

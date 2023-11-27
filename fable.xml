@@ -43,7 +43,7 @@
       <cortada img="Tree_1.png" x="320" width="150" height="50"/>
     </agent>
 </page>
-<page>
+<page background="bg.png">
     
 </page>
       
